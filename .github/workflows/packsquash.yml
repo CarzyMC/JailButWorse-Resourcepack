@@ -19,10 +19,10 @@ jobs:
         with:
           packsquash_version: latest
           options: |
-pack_directory = '.'
-output_file_path = '/tmp/pack.zip'
-['**/*?.png']
-maximum_width_and_height = 21600
+            pack_directory = '.'
+            output_file_path = '/tmp/pack.zip'
+            ['**/*?.png']
+            maximum_width_and_height = 21600
       - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
