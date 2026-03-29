@@ -26,6 +26,8 @@ jobs:
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
             output_file_path = '/tmp/pack.zip'
+            
+            maximum_width_and_height = 21600
       - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
