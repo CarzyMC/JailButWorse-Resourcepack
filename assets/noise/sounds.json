@@ -1,0 +1,22 @@
+{
+"music.terminus": {"sounds":["noise:terminus"]},
+"music.ultimatum": {"sounds":["noise:ultimatum"]},
+"music.sanctus": {"sounds":["noise:sanctus"]},
+"sounds.something_wicked": {"sounds":["noise:something_wicked"]},
+"sounds.thyendisnow": {"sounds":["noise:thyendisnow"]},
+"sounds.asgoretest": {"sounds":["noise:drivinginmycar"]},
+"music.collapse": {"sounds":["noise:collapse"]},
+"music.dance": {"sounds":["noise:dance"]},
+"music.prelude": {"sounds":["noise:prelude"]},
+"sounds.thisprison": {"sounds":["noise:thisprison"]},
+"sounds.preparethyself": {"sounds":["noise:preparethyself"]},
+"sounds.crush": {"sounds":["noise:crush"]},
+"sounds.die": {"sounds":["noise:die"]},
+"sounds.begone": {"sounds":["noise:begone"]},
+"sounds.destroy": {"sounds":["noise:destroy"]},
+"sounds.judgement": {"sounds":["noise:judgement"]},
+"sounds.thiswillhurt": {"sounds":["noise:thiswillhurt"]},
+"music.theworldlooksred": {"sounds":["noise:theworldlooksred"]},
+"sounds.fbi": {"sounds":["noise:fbiopenup"]},
+"music.eventhorizon": {"sounds":["noise:eventhorizon"]}
+}

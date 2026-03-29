@@ -1,0 +1,19 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/attacks/clockindicatortexture",
+		"particle": "item/attacks/clockindicatortexture"
+	},
+	"elements": [
+		{
+			"from": [0, 3, 9],
+			"to": [16, 19, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 10, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	]
+}

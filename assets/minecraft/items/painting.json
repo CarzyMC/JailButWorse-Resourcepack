@@ -1,0 +1,69 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "model",
+      "model": "item/painting"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "item/images/size2fish"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/images/asgore"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/images/maurice"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/images/poseidonad2"
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/images/repconnsecurity2"
+        },
+        "threshold": 5
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/images/thing"
+        },
+        "threshold": 6
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/images/winbig"
+        },
+        "threshold": 7
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/images/wearyourbadge"
+        },
+        "threshold": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "model",
+      "model": "item/green_dye"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "item/misc/uranium"
+        },
+        "threshold": 1
+      }
+    ]
+  }
+}

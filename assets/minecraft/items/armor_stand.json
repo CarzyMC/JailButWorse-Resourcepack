@@ -1,0 +1,23 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "model",
+      "model": "item/armor_stand"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "item/misc/zaridoll"
+        },
+        "threshold": 1
+      }
+    ]
+  }
+}
+
+
+    

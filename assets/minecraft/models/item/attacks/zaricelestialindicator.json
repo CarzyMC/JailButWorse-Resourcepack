@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/attacks/zaricelestialindicator",
+		"particle": "item/attacks/zaricelestialindicator"
+	},
+	"elements": [
+		{
+			"from": [-10.08333, 8.08333, -10.08333],
+			"to": [26.08333, 8.08333, 26.08333],
+			"faces": {
+				"up": {"uv": [12, 12, 4, 4], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [12, 4, 4, 12], "texture": "#0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [-150, -45, -180]
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "model",
+      "model": "item/feather"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/clock_projectile"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/clockindicator"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/fireprojmodel"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/wallsprojectile"
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/zarilaser"
+        },
+        "threshold": 5
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/zaricelestialindicator"
+        },
+        "threshold": 6
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/zaritpindicator"
+        },
+        "threshold": 7
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/zariredindicator"
+        },
+        "threshold": 8
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/ring"
+        },
+        "threshold": 9
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/attacks/jumpprojectile"
+        },
+        "threshold": 10
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/misc/redcircle"
+        },
+        "threshold": 11
+      }
+    ]
+  }
+}
