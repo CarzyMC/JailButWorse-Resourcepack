@@ -22,14 +22,14 @@ jobs:
             pack_directory = '.'
             output_file_path = '/tmp/pack.zip'
             recompress_compressed_files = true
-            zip_compression_iterations = 30
+            zip_compression_iterations = 35
             zip_spec_conformance_level = 'disregard'
             skip_pack_icon = true
             ['**/*?.png']
-            image_data_compression_iterations = 15
+            image_data_compression_iterations = 20
             maximum_width_and_height = 21600
             ['**/*?.nbt']
-            nbt_compression_iterations = 20
+            nbt_compression_iterations = 25
       - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
