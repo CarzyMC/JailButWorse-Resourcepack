@@ -63,6 +63,13 @@
           "model": "item/images/wearyourbadge"
         },
         "threshold": 8
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "item/misc/spades"
+        },
+        "threshold": 9
       }
     ]
   }
