@@ -170,7 +170,7 @@
         },
         { 
             "type": "bitmap",
-            "file": "minecraft:a/item/misc/spades.png",
+            "file": "minecraft:bald.png",
             "ascent": 8,
             "height": 10,
             "chars": ["񏟝"]
