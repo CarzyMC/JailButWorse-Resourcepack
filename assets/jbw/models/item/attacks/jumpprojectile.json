@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/attacks/jumpprojectile",
-		"particle": "item/attacks/jumpprojectile"
+		"0": "jbw:item/attacks/jumpprojectile",
+		"particle": "jbw:item/attacks/jumpprojectile"
 	},
 	"elements": [
 		{

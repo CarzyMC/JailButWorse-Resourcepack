@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/misc/red_banana",
-		"particle": "item/misc/red_banana"
+		"0": "jbw:item/misc/red_banana",
+		"particle": "jbw:item/misc/red_banana"
 	},
 	"elements": [
 		{

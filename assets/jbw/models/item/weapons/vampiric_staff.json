@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/weapons/vstaff_eye",
-		"2": "item/weapons/vampiric_staff",
-		"particle": "item/weapons/vampiric_staff"
+		"1": "jbw:item/weapons/vstaff_eye",
+		"2": "jbw:item/weapons/vampiric_staff",
+		"particle": "jbw:item/weapons/vampiric_staff"
 	},
 	"elements": [
 		{

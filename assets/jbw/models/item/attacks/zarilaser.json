@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"17": "item/attacks/zarilaser",
-		"particle": "item/attacks/zarilaser"
+		"17": "jbw:item/attacks/zarilaser",
+		"particle": "jbw:item/attacks/zarilaser"
 	},
 	"elements": [
 		{

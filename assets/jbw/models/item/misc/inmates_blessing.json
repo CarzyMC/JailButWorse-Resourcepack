@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
 	"textures": {
-		"layer0": "item/misc/inmates_blessing"
+		"layer0": "jbw:item/misc/inmates_blessing"
 	}
 }

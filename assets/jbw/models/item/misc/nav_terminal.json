@@ -4,8 +4,8 @@
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "item/misc/terminal",
-		"particle": "item/misc/terminal"
+		"0": "jbw:item/misc/terminal",
+		"particle": "jbw:item/misc/terminal"
 	},
 	"elements": [
 		{

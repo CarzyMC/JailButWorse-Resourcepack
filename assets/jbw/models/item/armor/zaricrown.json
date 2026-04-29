@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/armor/zaricrown",
-		"particle": "item/armor/zaricrown"
+		"0": "jbw:item/armor/zaricrown",
+		"particle": "jbw:item/armor/zaricrown"
 	},
 	"elements": [
 		{

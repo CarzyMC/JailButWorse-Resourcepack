@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/weapons/scythe",
-		"particle": "item/weapons/scythe"
+		"0": "jbw:item/weapons/scythe",
+		"particle": "jbw:item/weapons/scythe"
 	},
 	"elements": [
 		{

@@ -4,8 +4,8 @@
 	"parent": "staff_keycard",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/misc/keycard",
-		"particle": "item/misc/keycard"
+		"0": "jbw:item/misc/keycard",
+		"particle": "jbw:item/misc/keycard"
 	},
 	"elements": [
 		{

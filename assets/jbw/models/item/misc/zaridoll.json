@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/misc/zaridoll",
-		"particle": "item/misc/zaridoll"
+		"0": "jbw:item/misc/zaridoll",
+		"particle": "jbw:item/misc/zaridoll"
 	},
 	"elements": [
 		{

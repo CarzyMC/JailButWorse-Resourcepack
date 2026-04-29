@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/misc/smallmonitor",
-		"particle": "item/misc/smallmonitor"
+		"0": "jbw:item/misc/smallmonitor",
+		"particle": "jbw:item/misc/smallmonitor"
 	},
 	"elements": [
 		{

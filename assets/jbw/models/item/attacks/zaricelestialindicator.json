@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/attacks/zaricelestialindicator",
-		"particle": "item/attacks/zaricelestialindicator"
+		"0": "jbw:item/attacks/zaricelestialindicator",
+		"particle": "jbw:item/attacks/zaricelestialindicator"
 	},
 	"elements": [
 		{

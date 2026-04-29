@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/misc/junctionbox",
-		"particle": "item/misc/junctionbox"
+		"0": "jbw:item/misc/junctionbox",
+		"particle": "jbw:item/misc/junctionbox"
 	},
 	"elements": [
 		{

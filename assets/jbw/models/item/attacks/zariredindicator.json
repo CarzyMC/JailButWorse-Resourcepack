@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/attacks/zariindicatorred",
-		"particle": "item/attacks/zariindicatorred"
+		"0": "jbw:item/attacks/zariindicatorred",
+		"particle": "jbw:item/attacks/zariindicatorred"
 	},
 	"elements": [
 		{

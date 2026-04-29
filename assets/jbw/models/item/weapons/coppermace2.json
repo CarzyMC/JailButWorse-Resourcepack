@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
 	"textures": {
-		"layer0": "item/weapons/coppermace2"
+		"layer0": "jbw:item/weapons/coppermace2"
 	}
 }

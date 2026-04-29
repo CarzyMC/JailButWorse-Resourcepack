@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/attacks/clockindicatortexture",
-		"particle": "item/attacks/clockindicatortexture"
+		"0": "jbw:item/attacks/clockindicatortexture",
+		"particle": "jbw:item/attacks/clockindicatortexture"
 	},
 	"elements": [
 		{

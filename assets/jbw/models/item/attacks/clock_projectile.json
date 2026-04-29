@@ -2,10 +2,10 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "item/attacks/clock2",
-		"5": "item/attacks/fang",
-		"6": "item/attacks/jumpprojectile",
-		"particle": "item/attacks/clock2"
+		"3": "jbw:item/attacks/clock2",
+		"5": "jbw:item/attacks/fang",
+		"6": "jbw:item/attacks/jumpprojectile",
+		"particle": "jbw:item/attacks/clock2"
 	},
 	"elements": [
 		{
