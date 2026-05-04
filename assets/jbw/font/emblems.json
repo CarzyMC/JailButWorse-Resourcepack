@@ -2,10 +2,10 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "jbw:fonts/emblems/cattest.png",
+            "file": "jbw:fonts/carzycat.png",
             "ascent": 12,
             "height": 16,
-            "chars": ["A"]
+            "chars": [""]
         },
         {
             "type": "bitmap",
