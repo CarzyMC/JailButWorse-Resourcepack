@@ -61,7 +61,7 @@
             "file": "jbw:fonts/emblems/beer.png",
             "ascent": 8,
             "height": 10,
-            "chars": ["I"]
+            "chars": ["Z"]
         },
         {
             "type": "bitmap",
