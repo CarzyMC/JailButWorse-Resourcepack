@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "jbw:fonts/carzycat.png",
+            "file": "jbw:fonts/emblems/carzycat.png",
             "ascent": 12,
             "height": 16,
             "chars": [""]
