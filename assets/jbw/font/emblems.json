@@ -101,7 +101,7 @@
         { 
             "type": "bitmap",
             "file": "jbw:fonts/emblems/discord.png",
-            "ascent": 8,
+            "ascent": 7,
             "height": 10,
             "chars": ["I"]
         },
