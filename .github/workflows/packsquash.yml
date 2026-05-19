@@ -19,7 +19,6 @@ jobs:
         with:
           packsquash_version: latest
           options: |
-            exclude = ['.github', '.gitignore', 'README.md', '.git', '.vscode']
             pack_directory = '.'
             output_file_path = '/tmp/pack.zip'
             recompress_compressed_files = true
