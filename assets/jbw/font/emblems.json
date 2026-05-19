@@ -5,7 +5,7 @@
             "file": "jbw:fonts/emblems/carzycat.png",
             "ascent": 12,
             "height": 16,
-            "chars": [""]
+            "chars": ["A"]
         },
         {
             "type": "bitmap",
