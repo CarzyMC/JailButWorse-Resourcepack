@@ -29,11 +29,5 @@
 "music.overworld.cherry_grove": {"replace": true, "sounds": []},
 "music.overworld.bamboo_jungle": {"replace": true, "sounds": []},
 "music.overworld.badlands": {"replace": true, "sounds": []},
-"music.overworld.stony_peaks": {"replace": true, "sounds": []},
-"entity.player.attack.nodamage": {"replace": true, "sounds": []},
-"entity.player.attack.crit": {"replace": true, "sounds": []},
-"entity.player.attack.strong": {"replace": true, "sounds": []},
-"entity.player.attack.weak": {"replace": true, "sounds": []},
-"entity.player.attack.knockback": {"replace": true, "sounds": []},
-"entity.player.attack.sweep": {"replace": true, "sounds": []}
+"music.overworld.stony_peaks": {"replace": true, "sounds": []}
 }
