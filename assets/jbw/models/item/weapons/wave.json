@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
 	  "textures": {
-	      "layer0": "jbw:fonts:emblems/wave"
+	      "layer0": "jbw:fonts/emblems/wave"
 	  }
 }
