@@ -9,6 +9,13 @@
         },
         {
             "type": "bitmap",
+            "file": "jbw:fonts/emblems/wave.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["W"]
+        },
+        {
+            "type": "bitmap",
             "file": "jbw:fonts/emblems/white.png",
             "ascent": 100,
             "height": 250,
