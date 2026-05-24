@@ -1,3 +1,7 @@
 {
-  "music.jungle": {"sounds":["noise:junglejbw"]}
+  "music.jungle": {"sounds":["noise:junglejbw"]},
+  "music.skeld": {"sounds":["noise:skeldjbw_compressed"]},
+  "music.island": {"sounds":["noise:islandjbw_compressed"]},
+  "music.nether": {"sounds":["noise:netherjbw_compressed"]},
+  "music.easter": {"sounds":["noise:easterjbw_compressed"]}
 }
