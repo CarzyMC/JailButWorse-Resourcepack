@@ -3,5 +3,6 @@
   "music.skeld": {"sounds":["noise:skeldjbw_compressed"]},
   "music.island": {"sounds":["noise:islandjbw_compressed"]},
   "music.nether": {"sounds":["noise:netherjbw_compressed"]},
+  "music.gladiator": {"sounds":["noise:gladiatorjbw_compressed"]},
   "music.easter": {"sounds":["noise:easterjbw_compressed"]}
 }
