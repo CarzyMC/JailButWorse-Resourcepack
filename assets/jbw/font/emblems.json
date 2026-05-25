@@ -17,8 +17,8 @@
          {
             "type": "bitmap",
             "file": "jbw:fonts/emblems/fem.png",
-            "ascent": 12,
-            "height": 16,
+            "ascent": 9,
+            "height": 12,
             "chars": ["Y"]
         },
         {
