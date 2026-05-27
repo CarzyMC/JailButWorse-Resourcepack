@@ -4,5 +4,6 @@
   "music.island": {"sounds":["noise:islandjbw_compressed"]},
   "music.nether": {"sounds":["noise:netherjbw_compressed"]},
   "music.gladiator": {"sounds":["noise:gladiatorjbw_compressed"]},
+  "music.trail": {"sounds":["noise:trialjbw"]},
   "music.easter": {"sounds":["noise:easterjbw_compressed"]}
 }
