@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
 	  "textures": {
-		"layer0": "jbw:item/weapons/lemonade"
+		"layer0": "jbw:item/misc/lemonade"
 	}
 }
