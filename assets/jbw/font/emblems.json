@@ -121,6 +121,13 @@
         },
         { 
             "type": "bitmap",
+            "file": "jbw:fonts/emblems/join.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["➕"]
+        },
+        { 
+            "type": "bitmap",
             "file": "jbw:fonts/emblems/mole.png",
             "ascent": 8,
             "height": 10,
