@@ -6,5 +6,7 @@
   "music.gladiator": {"sounds":["noise:gladiatorjbw_compressed"]},
   "music.trail": {"sounds":["noise:trialjbw"]},
   "music.easter": {"sounds":["noise:easterjbw_compressed"]},
+  "music.castle": {"sounds":["noise:castlejbw_compressed"]},
+  "music.cove": {"sounds":["noise:covejbw_compressed"]},
   "music.boat": {"sounds":["noise:boatjbw_compressed"]}
 }
