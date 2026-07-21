@@ -16,8 +16,9 @@ You MAY NOT
 ✘ Copy, extract, or reuse textures, models, sounds, fonts, shaders, or any other assets in another resource pack or project.
 ✘ Sell, license, or commercially exploit this pack or any of its assets.
 ✘ Claim this pack or any part of it as your own work.
+
 Ownership
 
-All assets, including but not limited to textures, models, sounds, fonts, and code contained within this resource pack, remain the exclusive property of the JailButWorse Team.
+All assets, including but not limited to textures, models, sounds, fonts, and code contained within this resource pack, remain the exclusive property of the JailButWorse Team, and WitherImpact_.
 
 Permission to use this pack is granted only under the terms above and does not transfer ownership of any intellectual property.
