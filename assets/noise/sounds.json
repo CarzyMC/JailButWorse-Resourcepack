@@ -9,5 +9,6 @@
   "music.castle": {"sounds":["noise:castlejbw_compressed"]},
   "music.cove": {"sounds":["noise:covejbw_compressed"]},
   "music.moon": {"sounds":["noise:moon_compressed"]},
+  "music.wildwest": {"sounds":["noise:wildwest"]},
   "music.boat": {"sounds":["noise:boatjbw_compressed"]}
 }
